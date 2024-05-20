@@ -30,4 +30,4 @@ Check out our Next.js deployment documentation for more details.
 
 Readme
 Keywords
-none
+project tea staker node validator
